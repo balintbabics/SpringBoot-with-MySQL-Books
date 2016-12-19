@@ -52,7 +52,3 @@ There is an example JSON that you can use with **ARC**:
 - `localhost:8080/book/get/{id}` - Get the book details from `id`.
 
 - `localhost:8080/book/getByTitle/{title}` - Get the book details from `title`. 
-
----
-
-*From Balint Babics, 2016*
