@@ -24,7 +24,9 @@ First from terminal or build configuration:
     
 after that
 
-`mvn spring-boot:run`
+`mvn spring-boot:run`.
+
+If you did everything well you can reach the app at `localhost:8080`.
     
 ## Endpoints
 
